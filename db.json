@@ -1,9 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "products": [
+    {
+      "imgSrc": "https://via.placeholder.com/800x600?text=Quartz+Belt+Watch",
+      "category": "Accessories",
+      "title": "Quartz Belt Watch",
+      "price": "$150.00"
+    },
+    {
+      "imgSrc": "https://via.placeholder.com/800x600?text=Women+Freshwash",
+      "category": "Beauty",
+      "title": "Women Freshwash",
+      "price": "$120.00"
+    },
+    {
+      "imgSrc": "https://via.placeholder.com/800x600?text=Room+Flash+Light",
+      "category": "Decor",
+      "title": "Room Flash Light",
+      "price": "$45.00"
+    },
+    {
+      "imgSrc": "https://via.placeholder.com/800x600?text=Stylish+Lamp",
+      "category": "Decor",
+      "title": "Stylish Lamp",
+      "price": "$75.00"
+    },
+    {
+      "imgSrc": "https://via.placeholder.com/800x600?text=Smart+Watch",
+      "category": "Accessories",
+      "title": "Smart Watch",
+      "price": "$200.00"
+    },
+    {
+      "imgSrc": "https://via.placeholder.com/800x600?text=Skin+Care+Set",
+      "category": "Beauty",
+      "title": "Skin Care Set",
+      "price": "$80.00"
+    },
+    {
+      "imgSrc": "https://via.placeholder.com/800x600?text=Modern+Vase",
+      "category": "Decor",
+      "title": "Modern Vase",
+      "price": "$60.00"
+    },
+    {
+      "imgSrc": "https://via.placeholder.com/800x600?text=Fitness+Tracker",
+      "category": "Accessories",
+      "title": "Fitness Tracker",
+      "price": "$130.00"
+    }
+  ]
 }
